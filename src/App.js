@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          @pedro_tralha_07 /-/ @rodrigoanjos056 // Segue lá ;)
         </a>
       </header>
     </div>
